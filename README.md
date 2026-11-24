@@ -15,5 +15,4 @@ Klaviyo · Braze · HubSpot · GoHighLevel · Customer.io · Smartlead · Zapier
 
 ## Find me
 - Portfolio: https://samuelajayi.lovable.app/
-- LinkedIn: [add your link]
-- Where I post: [add X / YouTube / Substack link]
+- LinkedIn: https://www.linkedin.com/in/ajayi-oluwakayode-416790359
